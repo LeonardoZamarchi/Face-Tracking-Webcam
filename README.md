@@ -20,8 +20,8 @@ Este projeto implementa um sistema de rastreamento de rostos usando OpenCV em Py
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/rastreamento-rosto.git
-    cd rastreamento-rosto
+    git clone https://github.com/LeonardoZamarchi/Face-Tracking-Webcam.git
+    cd Face-Tracking-Webcam
     ```
 
 2. **Instale os pacotes Python necessários:**
