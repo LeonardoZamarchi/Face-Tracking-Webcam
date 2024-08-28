@@ -13,7 +13,7 @@ Este projeto implementa um sistema de rastreamento de rostos usando OpenCV em Py
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.12
 - OpenCV (com módulos contrib)
 
 ## Instalação
