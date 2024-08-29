@@ -19,7 +19,7 @@ frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 frame_aspect_ratio = frame_width / frame_height
 
 # Fator de aumento do crop (quanto maior, mais área ao redor do rosto será exibida)
-crop_factor = 3.0 
+crop_factor = 3.5 
 
 while True:
     ret, frame = cap.read()
